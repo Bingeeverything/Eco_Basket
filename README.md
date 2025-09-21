@@ -31,7 +31,7 @@ Upload a receipt photo or paste receipt text, and the app will:
 
 1. Clone this repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Bingeeverything/Eco_Basket>
 cd receipt-carbon-calculator
 ```
 
@@ -61,15 +61,6 @@ pip install -r requirements.txt
 winget install --id UB-Mannheim.TesseractOCR
 ```
 
-**Mac:**
-```bash
-brew install tesseract
-```
-
-**Ubuntu/Debian:**
-```bash
-sudo apt install tesseract-ocr
-```
 
 ### Running the app
 
@@ -167,6 +158,3 @@ Emission factors primarily sourced from:
 - Poore, J., & Nemecek, T. (2018). Reducing food's environmental impacts through producers and consumers. Science, 360(6392), 987-992.
 - Our World in Data food emissions database
 
----
-
-Built for sustainability awareness and carbon footprint tracking. Every grocery trip is an opportunity to make better choices for the planet! 🌍
