@@ -1,0 +1,33 @@
+name,basis,ef,syn,category,alt,alt_basis,alt_ef,alt_note,source
+beef mince,kg,27.0,beef|minced beef|mince|ground beef,protein,chicken breast,kg,6.9,Swap beef→chicken (~-75%),OWID/Poore&Nemecek 2018
+beef steak,kg,27.0,beef steak|sirloin|scotch fillet,protein,chicken breast,kg,6.9,Swap beef→chicken (~-75%),OWID/Poore&Nemecek 2018
+lamb,kg,39.0,lamb|mutton,protein,chicken breast,kg,6.9,Swap lamb→chicken (~-82%),OWID/Poore&Nemecek 2018
+pork,kg,7.0,pork|pork loin|pork mince,protein,chicken breast,kg,6.9,Small reduction vs pork,OWID/Poore&Nemecek 2018
+chicken breast,kg,6.9,chicken|chicken breast|chicken fillet,protein,tofu,kg,3.0,Try plant protein,OWID/Poore&Nemecek 2018
+fish fillet,kg,6.0,fish|salmon|barramundi|white fish,protein,tofu,kg,3.0,Plant option halves CO₂,OWID/Poore&Nemecek 2018
+tofu,kg,3.0,tofu|bean curd,protein,tempeh,kg,3.2,Similar footprint,OWID/Poore&Nemecek 2018
+tempeh,kg,3.2,tempeh,protein,tofu,kg,3.0,Similar footprint,OWID/Poore&Nemecek 2018
+eggs (dozen),ea,0.7,eggs|dozen eggs|12pk eggs,protein,,,,,OWID/Poore&Nemecek 2018
+milk (dairy),L,1.3,milk|full cream milk|dairy milk|cow milk,dairy,oat milk,L,0.4,Oat milk ≈-70% vs dairy,OWID/Poore&Nemecek 2018
+oat milk,L,0.4,oat milk|oat beverage,dairy,,,,,OWID/Poore&Nemecek 2018
+soy milk,L,0.9,soy milk|soya milk,dairy,oat milk,L,0.4,Oat milk lower vs soy,OWID/Poore&Nemecek 2018
+almond milk,L,0.7,almond milk,dairy,oat milk,L,0.4,Oat milk lower water use,OWID/Poore&Nemecek 2018
+cheese,kg,13.6,cheese|cheddar|tasty cheese|mozzarella,dairy,,,,,OWID/Poore&Nemecek 2018
+yoghurt,kg,2.2,yoghurt|yogurt,dairy,,,,,OWID/Poore&Nemecek 2018
+rice (white),kg,2.7,rice|white rice|basmati|jasmine,grains,lentils (dry),kg,0.9,Swap to pulses (~-65%),OWID/Poore&Nemecek 2018
+pasta,kg,1.8,pasta|spaghetti|penne|fusilli,grains,,,,,OWID/Poore&Nemecek 2018
+bread loaf,ea,0.5,bread|loaf|sandwich bread|toast,bakery,,,,,OWID/Poore&Nemecek 2018
+lentils (dry),kg,0.9,lentils|dal|masoor,pantry,,,,,OWID/Poore&Nemecek 2018
+chickpeas (dry),kg,0.9,chickpeas|chana|garbanzo,pantry,,,,,OWID/Poore&Nemecek 2018
+beans (canned),kg,1.5,beans|kidney beans|black beans|baked beans,pantry,,,,,OWID/Poore&Nemecek 2018
+apples,kg,0.5,apple|apples,produce,,,,,OWID/Poore&Nemecek 2018
+bananas,kg,0.8,banana|bananas,produce,,,,,OWID/Poore&Nemecek 2018
+tomatoes,kg,1.1,tomato|tomatoes,produce,,,,,OWID/Poore&Nemecek 2018
+potatoes,kg,0.4,potato|potatoes,produce,,,,,OWID/Poore&Nemecek 2018
+onions,kg,0.5,onion|onions,produce,,,,,OWID/Poore&Nemecek 2018
+carrots,kg,0.3,carrot|carrots,produce,,,,,OWID/Poore&Nemecek 2018
+lettuce,kg,0.9,lettuce|iceberg|cos|romaine,produce,,,,,OWID/Poore&Nemecek 2018
+plastic bag,ea,0.01,plastic bag|checkout bag|carry bag,household,reusable bag,ea,0.05,Needs 5–10 reuses to beat plastic,est.
+reusable bag,ea,0.05,reusable bag|tote bag|fabric bag,household,,,,,est.
+sugar,kg,0.7,sugar|white sugar|raw sugar,pantry,,,,,OWID/Poore&Nemecek 2018
+chocolate,kg,19.0,chocolate|dark chocolate|milk chocolate,snacks,,,,,OWID/Poore&Nemecek 2018

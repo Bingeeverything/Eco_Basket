@@ -1,0 +1,15 @@
+ts,Item,Match,Basis,Qty,EF_per_basis (kg CO₂e),Source,Emissions (kg CO₂e),timestamp
+2025-09-19T08:26:22,milk (dairy),100,L,1.0,1.3,OWID/Poore&Nemecek 2018,1.3,
+2025-09-19T08:26:22,chicken breast,100,kg,1.0,6.9,OWID/Poore&Nemecek 2018,6.9,
+2025-09-19T08:26:22,lamb,100,kg,1.0,39.0,OWID/Poore&Nemecek 2018,39.0,
+2025-09-19T08:26:22,potatoes,100,kg,1.0,0.4,OWID/Poore&Nemecek 2018,0.4,
+2025-09-19T08:26:22,carrots,100,kg,1.0,0.3,OWID/Poore&Nemecek 2018,0.3,
+2025-09-19T08:26:22,onions,100,kg,1.0,0.5,OWID/Poore&Nemecek 2018,0.5,
+2025-09-19T08:26:22,rice (white),100,kg,1.0,2.7,OWID/Poore&Nemecek 2018,2.7,
+,milk (dairy),100,L,1.0,1.3,OWID/Poore&Nemecek 2018,1.3,2025-09-21T23:33:27
+,chicken breast,100,kg,1.0,6.9,OWID/Poore&Nemecek 2018,6.9,2025-09-21T23:33:27
+,lamb,100,kg,1.0,39.0,OWID/Poore&Nemecek 2018,39.0,2025-09-21T23:33:27
+,potatoes,100,kg,1.0,0.4,OWID/Poore&Nemecek 2018,0.4,2025-09-21T23:33:27
+,carrots,100,kg,1.0,0.3,OWID/Poore&Nemecek 2018,0.3,2025-09-21T23:33:27
+,onions,100,kg,1.0,0.5,OWID/Poore&Nemecek 2018,0.5,2025-09-21T23:33:27
+,rice (white),100,kg,1.0,2.7,OWID/Poore&Nemecek 2018,2.7,2025-09-21T23:33:27
